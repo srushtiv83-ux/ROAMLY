@@ -1,0 +1,6 @@
+{
+  "name": "ROAMLY",
+  "description": "Find Places. Feel Stories. Global travel discovery and personalized trip-planning platform across all seven continents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
